@@ -9,7 +9,7 @@ import Footer from "./Component/Footer";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Main projectsList={projectsList} />
       <Footer />
