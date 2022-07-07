@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ade8f505.css",
-    "main.js": "/portfolio/static/js/main.2e31f154.js",
+    "main.js": "/portfolio/static/js/main.3b76456d.js",
     "static/media/asesoria_tesis_web.png": "/portfolio/static/media/asesoria_tesis_web.45571148b3a91e99101d.png",
     "static/media/agency_cheaptrip_web.png": "/portfolio/static/media/agency_cheaptrip_web.06bea1032eff14c95267.png",
     "static/media/america_solidaria_web.png": "/portfolio/static/media/america_solidaria_web.f35c2fcaad626665b909.png",
@@ -12,10 +12,10 @@
     "static/media/foto1.jpg": "/portfolio/static/media/foto1.65568d0b1fdc63285136.jpg",
     "index.html": "/portfolio/index.html",
     "main.ade8f505.css.map": "/portfolio/static/css/main.ade8f505.css.map",
-    "main.2e31f154.js.map": "/portfolio/static/js/main.2e31f154.js.map"
+    "main.3b76456d.js.map": "/portfolio/static/js/main.3b76456d.js.map"
   },
   "entrypoints": [
     "static/css/main.ade8f505.css",
-    "static/js/main.2e31f154.js"
+    "static/js/main.3b76456d.js"
   ]
 }
